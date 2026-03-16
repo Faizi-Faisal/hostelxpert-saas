@@ -235,4 +235,4 @@ This repository exists to showcase:
 If you'd like to discuss this system or my development work:
 
 GitHub: https://github.com/Faizi-Faisal
-LinkedIn: linkedin.com/in/faisalvahab
+LinkedIn: https://linkedin.com/in/faisalvahab
