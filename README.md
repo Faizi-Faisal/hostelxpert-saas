@@ -1,8 +1,6 @@
 # HostelXpert SaaS Platform
 
-HostelXpert is a **scalable SaaS platform designed to manage hostel operations, financial systems, and property infrastructure from a centralized admin panel.**
-
-The platform enables hostel operators to manage **multiple properties, students, employees, mess operations, financial accounting, and operational workflows** through a unified dashboard.
+HostelXpert is enterprise SaaS platform for managing hostel operations including property management, student lifecycle, mess management, accounting systems, and operational workflows.
 
 **Note**
 The production source code for this system is maintained in a **private company repository** and cannot be shared publicly due to company confidentiality policies.
